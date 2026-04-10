@@ -4,7 +4,15 @@
 		"editor.background": "#263238",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#bbbbbb",
+		"editor.lineHighlightBackground": "#2F3C43",
+		"editor.selectionBackground": "#3A4B54",
+		"editorCursor.foreground": "#FFCB6B",
+		"editorWhitespace.foreground": "#3B4A53",
+		"editorIndentGuide.background": "#314048",
+		"editorIndentGuide.activeBackground": "#4F6572",
+		"editor.findMatchBackground": "#82AAFF66",
+		"editor.findMatchHighlightBackground": "#82AAFF33"
 	},
 	"tokenColors": [
 		{
@@ -15,7 +23,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#748692"
 			}
 		},
 		{
@@ -62,7 +70,6 @@
 			"name": "Operator, Misc",
 			"scope": [
 				"keyword.control",
-				"constant.other.color",
 				"punctuation",
 				"meta.tag",
 				"punctuation.definition.tag",
@@ -156,7 +163,6 @@
 			"name": "Class, Support",
 			"scope": [
 				"entity.name",
-				"support.type",
 				"support.class",
 				"support.other.namespace.use.php",
 				"meta.use.php",
@@ -453,7 +459,7 @@
 				"text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"
 			],
 			"settings": {
-				"foreground": "#65737E"
+				"foreground": "#748692"
 			}
 		},
 		{
@@ -519,7 +525,7 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
-				"foreground": "#65737E"
+				"foreground": "#748692"
 			}
 		},
 		{
@@ -573,20 +579,20 @@
 				"markup.raw.block.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#00000050"
+				"foreground": "#748692"
 			}
 		},
 		{
-			"name": "Markdown - Fenced Bode Block",
+			"name": "Markdown - Fenced Code Block",
 			"scope": [
 				"punctuation.definition.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#00000050"
+				"foreground": "#748692"
 			}
 		},
 		{
-			"name": "Markdown - Fenced Bode Block Variable",
+			"name": "Markdown - Fenced Code Block Variable",
 			"scope": [
 				"markup.raw.block.fenced.markdown",
 				"variable.language.fenced.markdown",
@@ -602,7 +608,7 @@
 				"variable.language.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#65737E"
+				"foreground": "#748692"
 			}
 		},
 		{
@@ -612,7 +618,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#65737E"
+				"foreground": "#748692"
 			}
 		},
 		{
