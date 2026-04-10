@@ -1,7 +1,7 @@
 {
   "name": "vs-code",
   "displayName": "vs-code",
-  "description": "A warm paper inspired VS Code color theme.",
+  "description": "A midnight slate inspired VS Code color theme.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.115.0"
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Warm Paper",
+        "label": "Midnight Slate",
         "uiTheme": "vs-dark",
-        "path": "./themes/warm-paper-color-theme.json"
+        "path": "./themes/midnight-slate-color-theme.json"
       }
     ]
   }
