@@ -1,6 +1,7 @@
 {
-  "name": "vs-code",
-  "displayName": "vs-code",
+  "name": "lume-vs-theme",
+  "publisher": "Lume98",
+  "displayName": "lume-vs-theme",
   "description": "A midnight slate inspired VS Code color theme.",
   "version": "0.0.1",
   "engines": {
@@ -17,5 +18,8 @@
         "path": "./themes/midnight-slate-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.7.1"
   }
 }

@@ -1,4 +1,5 @@
 .vscode/**
 .vscode-test/**
+.codex
 .gitignore
 vsc-extension-quickstart.md
