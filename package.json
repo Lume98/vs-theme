@@ -16,6 +16,11 @@
         "label": "Midnight Slate",
         "uiTheme": "vs-dark",
         "path": "./themes/midnight-slate-color-theme.json"
+      },
+      {
+        "label": "Midnight Slate Light",
+        "uiTheme": "vs",
+        "path": "./themes/midnight-slate-light-color-theme.json"
       }
     ]
   },
